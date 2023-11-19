@@ -8,11 +8,10 @@ const Navbar = () => {
 				href="/"
 				className="flex justify-center items-center gap-2">
 				<Image
-					src="/icon.png"
+					src="/logo.png"
 					alt="..."
-					width={48}
-					height={48}
-					className=""
+					width={36}
+					height={36}
 				/>
 				<h1 className="text-3xl font-bold">Partam Movie</h1>
 			</Link>
