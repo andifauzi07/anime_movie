@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import SearchBox from './SearchBox';
+
 const Navbar = () => {
 	return (
 		<header className="w-full flex flex-col md:flex-row justify-between p-4 bg-blue-500 text-white">
